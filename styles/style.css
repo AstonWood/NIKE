@@ -72,3 +72,17 @@
 	  line-height: 21px;
 	  font-family:'Comfortaa-Regular';
   }
+
+  /* Header End */
+
+
+  /* Main Start */
+
+  h2{
+	  color: red;
+	  text-align: center;
+	  margin-top: 15px;
+	  font-size: 50px;
+  }
+
+  /* Main End */
